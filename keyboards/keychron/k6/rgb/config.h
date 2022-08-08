@@ -20,7 +20,7 @@
 #define VENDOR_ID       0x3434
 
 #define MANUFACTURER    Keychron
-#define PRODUCT         K6 RGB
+#define PRODUCT         Keychron K6 RGB
 
 /* key matrix size */
 #define MATRIX_ROWS 5
